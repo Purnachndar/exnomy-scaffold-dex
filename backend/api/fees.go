@@ -1,8 +1,8 @@
 package api
 
 import (
-	"github.com/HydroProtocol/hydro-scaffold-dex/backend/models"
-	"github.com/HydroProtocol/hydro-sdk-backend/utils"
+	"github.com/Purnachndar/hydro-scaffold-dex/backend/models"
+	"github.com/Purnachndar/hydro-sdk-backend/utils"
 	"github.com/shopspring/decimal"
 )
 

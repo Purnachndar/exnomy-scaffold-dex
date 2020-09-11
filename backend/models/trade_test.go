@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/HydroProtocol/hydro-sdk-backend/common"
+	"github.com/Purnachndar/hydro-sdk-backend/common"
 	"github.com/stretchr/testify/assert"
 	"math/rand"
 	"testing"

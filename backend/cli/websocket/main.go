@@ -2,11 +2,11 @@ package main
 
 import (
 	"context"
-	"github.com/HydroProtocol/hydro-scaffold-dex/backend/cli"
-	"github.com/HydroProtocol/hydro-scaffold-dex/backend/connection"
-	"github.com/HydroProtocol/hydro-sdk-backend/common"
-	"github.com/HydroProtocol/hydro-sdk-backend/utils"
-	"github.com/HydroProtocol/hydro-sdk-backend/websocket"
+	"github.com/Purnachndar/hydro-scaffold-dex/backend/cli"
+	"github.com/Purnachndar/hydro-scaffold-dex/backend/connection"
+	"github.com/Purnachndar/hydro-sdk-backend/common"
+	"github.com/Purnachndar/hydro-sdk-backend/utils"
+	"github.com/Purnachndar/hydro-sdk-backend/websocket"
 	"os"
 
 	_ "github.com/joho/godotenv/autoload"

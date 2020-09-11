@@ -8,8 +8,8 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/HydroProtocol/hydro-sdk-backend/sdk/ethereum"
-	"github.com/HydroProtocol/hydro-sdk-backend/utils"
+	"github.com/Purnachndar/hydro-sdk-backend/sdk/ethereum"
+	"github.com/Purnachndar/hydro-sdk-backend/utils"
 	"io/ioutil"
 	"math"
 	"math/rand"
@@ -28,7 +28,7 @@ func randomNumber(min, max, decimals float64) float64 {
 
 // ethereum-test-node
 // maker pk and address
-// https://github.com/HydroProtocol/ethereum-test-node
+// https://github.com/Purnachndar/ethereum-test-node
 const pk = "0xa6553a3cbade744d6c6f63e557345402abd93e25cd1f1dba8bb0d374de2fcf4f"
 const address = "0x126aa4ef50a6e546aa5ecd1eb83c060fb780891a"
 

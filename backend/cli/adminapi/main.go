@@ -2,8 +2,8 @@ package main
 
 import (
 	"context"
-	"github.com/HydroProtocol/hydro-scaffold-dex/backend/admin/api"
-	"github.com/HydroProtocol/hydro-scaffold-dex/backend/cli"
+	"github.com/Purnachndar/hydro-scaffold-dex/backend/admin/api"
+	"github.com/Purnachndar/hydro-scaffold-dex/backend/cli"
 	_ "github.com/joho/godotenv/autoload"
 	"os"
 )

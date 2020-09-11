@@ -2,8 +2,8 @@ package models
 
 import (
 	"database/sql"
-	"github.com/HydroProtocol/hydro-sdk-backend/common"
-	"github.com/HydroProtocol/hydro-sdk-backend/utils"
+	"github.com/Purnachndar/hydro-sdk-backend/common"
+	"github.com/Purnachndar/hydro-sdk-backend/utils"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/shopspring/decimal"
 	"github.com/stretchr/testify/assert"

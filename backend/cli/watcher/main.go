@@ -7,17 +7,17 @@ import (
 import (
 	"context"
 	"encoding/json"
-	"github.com/HydroProtocol/nights-watch/plugin"
-	"github.com/HydroProtocol/nights-watch/structs"
+	"github.com/Purnachndar/ethereum-watcher/plugin"
+	"github.com/Purnachndar/ethereum-watcher/structs"
 	"strconv"
 
-	"github.com/HydroProtocol/hydro-scaffold-dex/backend/cli"
-	"github.com/HydroProtocol/hydro-scaffold-dex/backend/connection"
-	"github.com/HydroProtocol/hydro-scaffold-dex/backend/models"
-	"github.com/HydroProtocol/hydro-sdk-backend/common"
-	"github.com/HydroProtocol/hydro-sdk-backend/sdk"
-	"github.com/HydroProtocol/hydro-sdk-backend/utils"
-	"github.com/HydroProtocol/nights-watch"
+	"github.com/Purnachndar/hydro-scaffold-dex/backend/cli"
+	"github.com/Purnachndar/hydro-scaffold-dex/backend/connection"
+	"github.com/Purnachndar/hydro-scaffold-dex/backend/models"
+	"github.com/Purnachndar/hydro-sdk-backend/common"
+	"github.com/Purnachndar/hydro-sdk-backend/sdk"
+	"github.com/Purnachndar/hydro-sdk-backend/utils"
+	"github.com/Purnachndar/ethereum-watcher"
 	"os"
 )
 
