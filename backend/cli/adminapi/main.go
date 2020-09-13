@@ -2,8 +2,8 @@ package main
 
 import (
 	"context"
-	"github.com/Purnachndar/hydro-scaffold-dex/backend/admin/api"
-	"github.com/Purnachndar/hydro-scaffold-dex/backend/cli"
+	"github.com/Purnachndar/exnomy-scaffold-dex/backend/admin/api"
+	"github.com/Purnachndar/exnomy-scaffold-dex/backend/cli"
 	_ "github.com/joho/godotenv/autoload"
 	"os"
 )

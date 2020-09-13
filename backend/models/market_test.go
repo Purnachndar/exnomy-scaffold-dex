@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/Purnachndar/hydro-sdk-backend/utils"
+	"github.com/Purnachndar/exnomy-sdk-backend/utils"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"

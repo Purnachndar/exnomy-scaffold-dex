@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/Purnachndar/hydro-scaffold-dex/backend/models"
+	"github.com/Purnachndar/exnomy-scaffold-dex/backend/models"
 	"github.com/shopspring/decimal"
 )
 

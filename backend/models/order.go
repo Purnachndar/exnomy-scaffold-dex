@@ -2,8 +2,8 @@ package models
 
 import (
 	"encoding/json"
-	"github.com/Purnachndar/hydro-sdk-backend/common"
-	"github.com/Purnachndar/hydro-sdk-backend/utils"
+	"github.com/Purnachndar/exnomy-sdk-backend/common"
+	"github.com/Purnachndar/exnomy-sdk-backend/utils"
 	"github.com/shopspring/decimal"
 	"time"
 )

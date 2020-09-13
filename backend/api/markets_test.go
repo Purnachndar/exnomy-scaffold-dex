@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Purnachndar/hydro-scaffold-dex/backend/models"
-	"github.com/Purnachndar/hydro-sdk-backend/common"
+	"github.com/Purnachndar/exnomy-scaffold-dex/backend/models"
+	"github.com/Purnachndar/exnomy-sdk-backend/common"
 	"github.com/shopspring/decimal"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"

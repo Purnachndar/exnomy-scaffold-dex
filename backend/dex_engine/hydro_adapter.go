@@ -1,9 +1,9 @@
 package dex_engine
 
 import (
-	"github.com/Purnachndar/hydro-scaffold-dex/backend/models"
-	"github.com/Purnachndar/hydro-sdk-backend/sdk"
-	"github.com/Purnachndar/hydro-sdk-backend/utils"
+	"github.com/Purnachndar/exnomy-scaffold-dex/backend/models"
+	"github.com/Purnachndar/exnomy-sdk-backend/sdk"
+	"github.com/Purnachndar/exnomy-sdk-backend/utils"
 )
 
 func getHydroOrderFromModelOrder(orderJSON *models.OrderJSON) *sdk.Order {

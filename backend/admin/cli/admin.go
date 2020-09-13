@@ -2,9 +2,9 @@ package admincli
 
 import (
 	"fmt"
-	"github.com/Purnachndar/hydro-scaffold-dex/backend/models"
-	"github.com/Purnachndar/hydro-sdk-backend/sdk/ethereum"
-	"github.com/Purnachndar/hydro-sdk-backend/utils"
+	"github.com/Purnachndar/exnomy-scaffold-dex/backend/models"
+	"github.com/Purnachndar/exnomy-sdk-backend/sdk/ethereum"
+	"github.com/Purnachndar/exnomy-sdk-backend/utils"
 	"net"
 	"net/http"
 	"net/url"

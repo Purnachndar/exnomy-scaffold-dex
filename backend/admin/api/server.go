@@ -2,10 +2,10 @@ package adminapi
 
 import (
 	"context"
-	"github.com/Purnachndar/hydro-scaffold-dex/backend/connection"
-	"github.com/Purnachndar/hydro-scaffold-dex/backend/models"
-	"github.com/Purnachndar/hydro-sdk-backend/common"
-	"github.com/Purnachndar/hydro-sdk-backend/sdk/ethereum"
+	"github.com/Purnachndar/exnomy-scaffold-dex/backend/connection"
+	"github.com/Purnachndar/exnomy-scaffold-dex/backend/models"
+	"github.com/Purnachndar/exnomy-sdk-backend/common"
+	"github.com/Purnachndar/exnomy-sdk-backend/sdk/ethereum"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 	"net/http"

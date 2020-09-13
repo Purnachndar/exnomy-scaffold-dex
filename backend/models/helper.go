@@ -1,8 +1,8 @@
 package models
 
 import (
-	"github.com/Purnachndar/hydro-sdk-backend/common"
-	"github.com/Purnachndar/hydro-sdk-backend/utils"
+	"github.com/Purnachndar/exnomy-sdk-backend/common"
+	"github.com/Purnachndar/exnomy-sdk-backend/utils"
 )
 
 func UpdateLaunchLogToPending(launchLog *LaunchLog) (err error) {

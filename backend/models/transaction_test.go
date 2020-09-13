@@ -2,7 +2,7 @@ package models
 
 import (
 	"database/sql"
-	"github.com/Purnachndar/hydro-sdk-backend/common"
+	"github.com/Purnachndar/exnomy-sdk-backend/common"
 	"github.com/satori/go.uuid"
 	"github.com/stretchr/testify/assert"
 	"testing"

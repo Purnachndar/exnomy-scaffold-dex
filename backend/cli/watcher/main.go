@@ -11,12 +11,12 @@ import (
 	"github.com/Purnachndar/ethereum-watcher/structs"
 	"strconv"
 
-	"github.com/Purnachndar/hydro-scaffold-dex/backend/cli"
-	"github.com/Purnachndar/hydro-scaffold-dex/backend/connection"
-	"github.com/Purnachndar/hydro-scaffold-dex/backend/models"
-	"github.com/Purnachndar/hydro-sdk-backend/common"
-	"github.com/Purnachndar/hydro-sdk-backend/sdk"
-	"github.com/Purnachndar/hydro-sdk-backend/utils"
+	"github.com/Purnachndar/exnomy-scaffold-dex/backend/cli"
+	"github.com/Purnachndar/exnomy-scaffold-dex/backend/connection"
+	"github.com/Purnachndar/exnomy-scaffold-dex/backend/models"
+	"github.com/Purnachndar/exnomy-sdk-backend/common"
+	"github.com/Purnachndar/exnomy-sdk-backend/sdk"
+	"github.com/Purnachndar/exnomy-sdk-backend/utils"
 	"github.com/Purnachndar/ethereum-watcher"
 	"os"
 )
